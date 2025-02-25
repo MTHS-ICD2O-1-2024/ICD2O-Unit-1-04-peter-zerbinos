@@ -1,4 +1,22 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
+/* Created by: Peter Zerbinos
+ * Created on: Feb 2025
+ * This CSS file defines the style for index.html ICS2O-Unit1-04-HTML-CSS
 */
+
+body {
+  background-color: rgb(255 124 124);
+}
+
+h1 {
+  background-color: rgb(144 199 6);
+  color: hsl(147deg 100% 50%);
+  padding: 45px;
+  text-align: left;
+  -webkit-text-stroke: 2px black;
+}
+
+p {
+  background-color: rgb(255 217 0);
+  text-align: center;
+  
+}
